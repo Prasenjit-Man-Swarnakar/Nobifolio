@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nobifolio/static/css/main.5c816a5b.css",
+    "main.css": "/Nobifolio/static/css/main.1bcda7ba.css",
     "main.js": "/Nobifolio/static/js/main.a48438f1.js",
     "static/css/487.bb36206c.chunk.css": "/Nobifolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.32255d52.chunk.js": "/Nobifolio/static/js/487.32255d52.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/resume.pdf": "/Nobifolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/Nobifolio/index.html",
     "static/media/talksCardBack.svg": "/Nobifolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.5c816a5b.css.map": "/Nobifolio/static/css/main.5c816a5b.css.map",
+    "main.1bcda7ba.css.map": "/Nobifolio/static/css/main.1bcda7ba.css.map",
     "main.a48438f1.js.map": "/Nobifolio/static/js/main.a48438f1.js.map",
     "487.bb36206c.chunk.css.map": "/Nobifolio/static/css/487.bb36206c.chunk.css.map",
     "487.32255d52.chunk.js.map": "/Nobifolio/static/js/487.32255d52.chunk.js.map",
@@ -30,7 +30,7 @@
     "990.20f49acf.chunk.js.map": "/Nobifolio/static/js/990.20f49acf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c816a5b.css",
+    "static/css/main.1bcda7ba.css",
     "static/js/main.a48438f1.js"
   ]
 }
