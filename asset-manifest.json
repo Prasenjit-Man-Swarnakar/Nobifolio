@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Nobifolio/static/css/main.1bcda7ba.css",
-    "main.js": "/Nobifolio/static/js/main.a48438f1.js",
+    "main.css": "/Nobifolio/static/css/main.26982f27.css",
+    "main.js": "/Nobifolio/static/js/main.128038ab.js",
     "static/css/487.bb36206c.chunk.css": "/Nobifolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.32255d52.chunk.js": "/Nobifolio/static/js/487.32255d52.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Nobifolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.20f49acf.chunk.js": "/Nobifolio/static/js/990.20f49acf.chunk.js",
-    "static/media/myphoto.jpg": "/Nobifolio/static/media/myphoto.40b12838f2158fb33291.jpg",
     "static/media/certificate.png": "/Nobifolio/static/media/certificate.91be0fefcc79ee961249.png",
     "static/media/Montserrat-Regular.ttf": "/Nobifolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/university.png": "/Nobifolio/static/media/university.4f813efd7d9e0f7f5753.png",
+    "static/media/Prasenjit_Resume.pdf": "/Nobifolio/static/media/Prasenjit_Resume.d33cff9174f6ea770e3e.pdf",
+    "static/media/bit_certificate.jpg": "/Nobifolio/static/media/bit_certificate.1bce2eb43a6eec10196b.jpg",
     "static/media/Agustina.woff": "/Nobifolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/myphoto.jpg": "/Nobifolio/static/media/myphoto.1b5540e1265bbf6b8be9.jpg",
     "static/media/vidya mandir.webp": "/Nobifolio/static/media/vidya mandir.3d626e9c9fdfbf30e21f.webp",
     "static/media/amazon.png": "/Nobifolio/static/media/amazon.4213cf759c21effb1669.png",
     "static/media/contactMailDark.svg": "/Nobifolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -19,18 +21,17 @@
     "static/media/imageCaptioning.png": "/Nobifolio/static/media/imageCaptioning.fa645ffde24cb7105435.png",
     "static/media/sindri college.webp": "/Nobifolio/static/media/sindri college.cc8231022c6cf8bfd820.webp",
     "static/media/skill.svg": "/Nobifolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/Nobifolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/Nobifolio/index.html",
     "static/media/talksCardBack.svg": "/Nobifolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.1bcda7ba.css.map": "/Nobifolio/static/css/main.1bcda7ba.css.map",
-    "main.a48438f1.js.map": "/Nobifolio/static/js/main.a48438f1.js.map",
+    "main.26982f27.css.map": "/Nobifolio/static/css/main.26982f27.css.map",
+    "main.128038ab.js.map": "/Nobifolio/static/js/main.128038ab.js.map",
     "487.bb36206c.chunk.css.map": "/Nobifolio/static/css/487.bb36206c.chunk.css.map",
     "487.32255d52.chunk.js.map": "/Nobifolio/static/js/487.32255d52.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Nobifolio/static/css/990.c6a7ee28.chunk.css.map",
     "990.20f49acf.chunk.js.map": "/Nobifolio/static/js/990.20f49acf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bcda7ba.css",
-    "static/js/main.a48438f1.js"
+    "static/css/main.26982f27.css",
+    "static/js/main.128038ab.js"
   ]
 }
