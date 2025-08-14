@@ -29,7 +29,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
+    "production": [ 
       ">0.3%",
       "not ie 11",
       "not dead",
