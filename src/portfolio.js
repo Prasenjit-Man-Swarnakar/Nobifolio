@@ -20,7 +20,7 @@ const greeting = {
     "I'm an engineer of efficient, high-performing Web and Mobile experiences — blending creativity with code to build scalable, user-focused solutions that solve real-world problems with clarity and precision."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1ajqFMQ4xTnOKPX2ryKPdlK-usZCHb2jC/view?usp=drive_link",
   displayGreeting: true
 };
 
@@ -91,7 +91,7 @@ const techStack = {
   experience: [
     { Stack: "Frontend", progressPercentage: "85%" },
     { Stack: "Backend", progressPercentage: "75%" },
-    { Stack: "Programming", progressPercentage: "70%" }
+    { Stack: "Programming", progressPercentage: "50%" }
   ],
   displayCodersrank: false
 };
@@ -167,10 +167,23 @@ const achievementSection = {
           url: "https://coursera.org/verify/google-python-cert"
         }
       ]
+    },
+    {
+      title: "Image Captioning using Deep learning ",
+      subtitle: "Bit Sindri Dhanbad",
+      image: require("./assets/images/bit_certificate.jpg"),
+      imageAlt: "DEEP LEARNING CERTIFICATE",
+      footerLink: [
+        {
+          name: "View Certificate",
+          url: "https://drive.google.com/file/d/1_0_LJbtOzzPHJryTRgRxKoe4foqYFiPG/view?usp=drive_link"
+        }
+      ]
     }
   ],
   display: true
 };
+
 
 const blogSection = {
   title: "Blogs",
